@@ -18,4 +18,4 @@
 
 
 # Whats next?
-* This wasn't very good practice
+* Click [here](https://github.com/Zipcoder/TC-Design-Command-TaskManager) to begin the next lab: Command Design Pattern
